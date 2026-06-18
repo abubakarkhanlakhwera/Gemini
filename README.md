@@ -1,36 +1,28 @@
-# Gemini
+# Gemini API Experiments
 
-Gemini API notebook experiments for AI application learning.
+Notebook and Python experiments using the Gemini API.
 
-## Overview
+## Purpose
 
-This is a AI/ML learning and prototype repository. It is part of my broader GitHub portfolio showing hands-on work across AI, web development, automation, and software engineering fundamentals.
+This repository explores how Gemini can be used in small AI application flows, such as chatbot-style interactions and notebook experiments.
 
-## What It Demonstrates
+## What This Shows
 
-- Practical implementation and experimentation rather than only theory.
-- Familiarity with the repository's core stack and development workflow.
-- Iterative learning through small projects, exercises, or prototypes.
+- Gemini API usage
+- Chatbot experimentation
+- Notebook-to-script workflow
 
-## Tech Stack
+## Stack
 
-- Primary language: Jupyter Notebook
-- Topics: ai, gemini-api, jupyter-notebook
-
-## Repository Structure
-
-- Top-level folders: No top-level folders detected.
-- Top-level files: README.md, gemini_chatbot.ipynb, gemini_chatbot.py
-
-## Status
-
-This is a learning/prototype repository kept public to show practice, experimentation, and growth.
+- Python
+- Jupyter Notebook
+- Gemini API
 
 ## Next Improvements
 
-- Add screenshots, sample outputs, or a short demo where relevant.
-- Expand setup instructions for local development.
-- Document the main learning outcome, architecture, and edge cases.
+- Add setup notes for API keys without exposing secrets
+- Add sample prompts/outputs
+- Document limitations and safety considerations
 
 ## Author
 
